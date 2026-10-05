@@ -1,39 +1,12 @@
 # Hi, I'm Diego Sousa Mello 👋
 
+[🇧🇷 Português](README.pt-BR.md) | 🇺🇸 English
+
 ### Backend Developer | C# | .NET
 
-I'm a software developer focused on backend development with **C# and .NET**, building APIs and applications with clean, maintainable, and well-structured code.
+I'm a software developer focused on backend development with **C# and .NET**, building APIs and full-stack applications with an emphasis on clean code, maintainability, testing, and well-structured architecture.
 
-I have professional experience working with **C#/.NET, APIs, SQL Server, TypeScript, debugging, database maintenance, and legacy systems**, and I'm continuously improving my skills through hands-on projects.
-
-## 💻 Tech Stack
-
-**Backend**
-
-* C#
-* .NET / ASP.NET Core
-* Entity Framework Core
-* REST APIs
-* JWT Authentication
-* Clean Architecture
-
-**Database**
-
-* SQL Server
-* SQL
-
-**Frontend**
-
-* React
-* TypeScript
-* JavaScript
-
-**Tools**
-
-* Git
-* GitHub
-* Visual Studio
-* Postman / Swagger
+I have professional experience with **C#/.NET, REST APIs, SQL Server, TypeScript, debugging, database maintenance, and legacy systems**. I also develop personal projects to deepen my knowledge of backend engineering, software architecture, automated testing, Docker, and modern web development.
 
 ## 🚀 Featured Project
 
@@ -41,32 +14,73 @@ I have professional experience working with **C#/.NET, APIs, SQL Server, TypeScr
 
 A full-stack collaborative task management application inspired by Kanban workflows.
 
-**Main features:**
+SprintBoard is my main portfolio project and brings together backend, frontend, testing, and infrastructure practices in a single application.
 
-* JWT authentication
-* Boards, cards, and checklists
-* Owner, Admin, and Member roles
-* Role-based authorization
-* Board invitations by email
-* Member management
-* Profile image upload
-* SQL Server integration
-* Global API error handling
-* React + TypeScript frontend
+**Highlights:**
 
-**Stack:** C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server • React • TypeScript
+- ASP.NET Core Web API with **.NET 10**
+- **Clean Architecture**
+- Entity Framework Core + SQL Server
+- JWT authentication
+- Owner, Admin, and Member authorization rules
+- Board invitations by email
+- Boards, cards, checklists, and member management
+- React + TypeScript frontend
+- Automated unit, controller, middleware, authorization, and integration tests
+- Docker and Docker Compose
+- Nginx reverse proxy
+- Structured logging with Serilog
+- Correlation IDs and health checks
 
-> SprintBoard is currently under active development. Automated tests, Docker support, production deployment, and additional documentation are being added.
+**Stack:** C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server • React • TypeScript • Docker
 
-## 📚 Currently Improving
+➡️ **[Explore SprintBoard](https://github.com/diego0425/SprintBoard)**
 
-* Automated Testing
-* Docker
-* Backend Architecture
-* API Design
-* Software Development Best Practices
+## 💻 Tech Stack
+
+### Backend
+- C#
+- .NET / ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- JWT Authentication
+- Clean Architecture
+
+### Database
+- SQL Server
+- SQL
+
+### Frontend
+- React
+- TypeScript
+- JavaScript
+
+### Testing & Infrastructure
+- xUnit
+- Moq
+- Integration Testing
+- Docker
+- Docker Compose
+- Nginx
+- Serilog
+
+### Tools
+- Git
+- GitHub
+- Visual Studio
+- Postman
+- Swagger
+
+## 🎯 Currently Improving
+
+- Backend Architecture
+- Automated Testing
+- API Design
+- Docker and deployment workflows
+- CI/CD
+- Software Development Best Practices
 
 ## 📫 Contact
 
-* **LinkedIn:** [linkedin.com/in/diegosousamello](https://www.linkedin.com/in/diegosousamello)
-* **Email:** [sousamellodiego04@gmail.com](mailto:sousamellodiego04@gmail.com)
+- **LinkedIn:** [linkedin.com/in/diegosousamello](https://www.linkedin.com/in/diegosousamello)
+- **Email:** [sousamellodiego04@gmail.com](mailto:sousamellodiego04@gmail.com)
