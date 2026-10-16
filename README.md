@@ -2,85 +2,38 @@
 
 [🇧🇷 Português](README.pt-BR.md) | 🇺🇸 English
 
-### Backend Developer | C# | .NET
+### Junior C#/.NET Backend Developer | ASP.NET Core | SQL Server
 
-I'm a software developer focused on backend development with **C# and .NET**, building APIs and full-stack applications with an emphasis on clean code, maintainability, testing, and well-structured architecture.
+I have **approximately one year of professional software-development experience** at PWI Sistemas (2021–2022), working on C#/.NET APIs, SQL Server queries, tables and triggers, bug fixes, and TypeScript. I collaborated in a team using Git, sprints and daily meetings.
 
-I have professional experience with **C#/.NET, REST APIs, SQL Server, TypeScript, debugging, database maintenance, and legacy systems**. I also develop personal projects to deepen my knowledge of backend engineering, software architecture, automated testing, Docker, and modern web development.
+Since March 2026, I have been building **[SprintBoard](https://github.com/diego0425/SprintBoard)**, a personal full-stack Kanban application, to demonstrate current backend engineering practices.
 
-## 🚀 Featured Project
+**Currently:** completing a Bachelor's degree in Software Engineering (expected 2026). **English:** advanced. **Interested in:** junior .NET backend or .NET + React positions.
 
-### [SprintBoard](https://github.com/diego0425/SprintBoard)
+## Featured project: [SprintBoard](https://github.com/diego0425/SprintBoard)
 
-A full-stack collaborative task management application inspired by Kanban workflows.
+- **Backend:** .NET 10, ASP.NET Core Web API, EF Core, SQL Server, Clean Architecture.
+- **Security:** JWT authentication, Owner/Admin/Member permissions, invitation flows, password hashing and rate limiting.
+- **Quality:** **384 automated tests passing**, including unit and integration tests.
+- **Frontend:** React 19 + TypeScript.
+- **Delivery:** Docker Compose, GitHub Actions CI and GHCR image publishing.
+- **Observability:** health checks, structured logging and correlation IDs.
+- **Status:** runnable locally; Azure production deployment is planned, **not live yet**.
 
-SprintBoard is my main portfolio project and brings together backend, frontend, testing, and infrastructure practices in a single application.
+➡️ [Architecture, setup, test strategy and CI/CD documentation](https://github.com/diego0425/SprintBoard#readme)
 
-**Highlights:**
+## Professional experience
 
-- ASP.NET Core Web API with **.NET 10**
-- **Clean Architecture**
-- Entity Framework Core + SQL Server
-- JWT authentication
-- Owner, Admin, and Member authorization rules
-- Board invitations by email
-- Boards, cards, checklists, and member management
-- React + TypeScript frontend
-- Automated unit, controller, middleware, authorization, and integration tests
-- Docker and Docker Compose
-- Nginx reverse proxy
-- Structured logging with Serilog
-- Correlation IDs and health checks
+**Software Development Intern · PWI Sistemas · 2021–2022**
+- Maintained C#/.NET APIs and backend functionality; investigated defects and implemented fixes.
+- Wrote and updated SQL Server queries, tables and triggers.
+- Worked with TypeScript, Git and legacy Visual FoxPro systems; participated in sprint and daily routines.
 
-**Stack:** C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server • React • TypeScript • Docker
+## Technical skills
 
-➡️ **[Explore SprintBoard](https://github.com/diego0425/SprintBoard)**
+**C# · .NET · ASP.NET Core · REST APIs · EF Core · SQL Server · Git · xUnit · Docker · GitHub Actions · React · TypeScript**
 
-## 💻 Tech Stack
+## Contact
 
-### Backend
-- C#
-- .NET / ASP.NET Core
-- Entity Framework Core
-- REST APIs
-- JWT Authentication
-- Clean Architecture
-
-### Database
-- SQL Server
-- SQL
-
-### Frontend
-- React
-- TypeScript
-- JavaScript
-
-### Testing & Infrastructure
-- xUnit
-- Moq
-- Integration Testing
-- Docker
-- Docker Compose
-- Nginx
-- Serilog
-
-### Tools
-- Git
-- GitHub
-- Visual Studio
-- Postman
-- Swagger
-
-## 🎯 Currently Improving
-
-- Backend Architecture
-- Automated Testing
-- API Design
-- Docker and deployment workflows
-- CI/CD
-- Software Development Best Practices
-
-## 📫 Contact
-
-- **LinkedIn:** [linkedin.com/in/diegosousamello](https://www.linkedin.com/in/diegosousamello)
-- **Email:** [sousamellodiego04@gmail.com](mailto:sousamellodiego04@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/diegosousamello)
+- [Email](mailto:sousamellodiego04@gmail.com)
