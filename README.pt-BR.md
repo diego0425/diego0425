@@ -1,86 +1,39 @@
-# Olá, eu sou Diego Sousa Mello 👋
+# Olá, sou Diego Sousa Mello 👋
 
 🇧🇷 Português | [🇺🇸 English](README.md)
 
-### Desenvolvedor Backend | C# | .NET
+### Desenvolvedor Backend C#/.NET Júnior | ASP.NET Core | SQL Server
 
-Sou desenvolvedor de software com foco em desenvolvimento backend utilizando **C# e .NET**, criando APIs e aplicações full-stack com atenção a código limpo, manutenção, testes e arquitetura bem estruturada.
+Tenho **aproximadamente um ano de experiência profissional** na PWI Sistemas (2021–2022), atuando com APIs C#/.NET, consultas, tabelas e triggers SQL Server, correção de bugs e TypeScript. Trabalhei com Git e participei de sprints e reuniões diárias.
 
-Tenho experiência profissional com **C#/.NET, APIs REST, SQL Server, TypeScript, debugging, manutenção de banco de dados e sistemas legados**. Também desenvolvo projetos próprios para aprofundar meus conhecimentos em engenharia backend, arquitetura de software, testes automatizados, Docker e desenvolvimento web moderno.
+Desde março de 2026, desenvolvo o **[SprintBoard](https://github.com/diego0425/SprintBoard)**, um projeto pessoal fullstack no estilo Kanban, para demonstrar conhecimentos atuais de engenharia backend.
 
-## 🚀 Projeto em Destaque
+**Formação:** Engenharia de Software, conclusão prevista para 2026. **Inglês:** avançado. **Objetivo:** oportunidades júnior em backend .NET ou .NET + React.
 
-### [SprintBoard](https://github.com/diego0425/SprintBoard)
+## Projeto em destaque: [SprintBoard](https://github.com/diego0425/SprintBoard)
 
-Uma aplicação full-stack colaborativa para gerenciamento de tarefas inspirada em fluxos Kanban.
+- **Backend:** .NET 10, ASP.NET Core Web API, EF Core, SQL Server e Clean Architecture.
+- **Segurança:** JWT, autorização Owner/Admin/Member, convites, hashing de senhas e rate limiting.
+- **Qualidade:** **384 testes automatizados passando**, incluindo testes unitários e de integração.
+- **Frontend:** React 19 e TypeScript.
+- **Entrega:** Docker Compose, CI com GitHub Actions e imagens no GHCR.
+- **Observabilidade:** health checks, logs estruturados e correlation IDs.
+- **Status:** execução local disponível; deploy público na Azure ainda **não realizado**.
 
-O SprintBoard é meu principal projeto de portfólio e reúne práticas de backend, frontend, testes e infraestrutura em uma única aplicação.
+➡️ [Documentação, execução local, arquitetura e testes](https://github.com/diego0425/SprintBoard/blob/main/README.pt-BR.md)
 
-**Destaques:**
+## Experiência profissional
 
-- ASP.NET Core Web API com **.NET 10**
-- **Clean Architecture**
-- Entity Framework Core + SQL Server
-- Autenticação JWT
-- Regras de autorização para Owner, Admin e Member
-- Convites para boards por e-mail
-- Gerenciamento de boards, cards, checklists e membros
-- Frontend em React + TypeScript
-- Testes automatizados unitários, de controllers, middleware, autorização e integração
-- Docker e Docker Compose
-- Nginx como reverse proxy
-- Logging estruturado com Serilog
-- Correlation IDs e health checks
+**Estagiário de Desenvolvimento · PWI Sistemas · 2021–2022**
+- Manutenção de APIs e funcionalidades backend em C#/.NET, investigação e correção de bugs.
+- Consultas SQL Server e criação/alteração de tabelas e triggers.
+- Atuação com TypeScript, Git e Visual FoxPro; participação em sprints e dailys.
 
-**Stack:** C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server • React • TypeScript • Docker
+## Tecnologias
 
-➡️ **[Conheça o SprintBoard](https://github.com/diego0425/SprintBoard)**
+**C# · .NET · ASP.NET Core · APIs REST · EF Core · SQL Server · Git · xUnit · Docker · GitHub Actions · React · TypeScript**
 
-## 💻 Tecnologias
+## Contato
 
-### Backend
-- C#
-- .NET / ASP.NET Core
-- Entity Framework Core
-- APIs REST
-- Autenticação JWT
-- Clean Architecture
-
-### Banco de Dados
-- SQL Server
-- SQL
-
-### Frontend
-- React
-- TypeScript
-- JavaScript
-
-### Testes e Infraestrutura
-- xUnit
-- Moq
-- Testes de integração
-- Docker
-- Docker Compose
-- Nginx
-- Serilog
-
-### Ferramentas
-- Git
-- GitHub
-- Visual Studio
-- Postman
-- Swagger
-
-## 🎯 Atualmente Aprimorando
-
-- Arquitetura Backend
-- Testes Automatizados
-- Design de APIs
-- Docker e fluxos de deploy
-- CI/CD
-- Boas Práticas de Desenvolvimento de Software
-
-## 📫 Contato
-
-- **LinkedIn:** [linkedin.com/in/diegosousamello](https://www.linkedin.com/in/diegosousamello)
-- **Email:** [sousamellodiego04@gmail.com](mailto:sousamellodiego04@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/diegosousamello)
+- [E-mail](mailto:sousamellodiego04@gmail.com)
